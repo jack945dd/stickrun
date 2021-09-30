@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Item name="Industry Backgr." 	price="100" id="53" 	isbought="false" 	isused="false"	category="6"	isPaid="false"/>
+<Item name="City Background" 	price="100" id="52" 	isbought="false" 	isused="false"	category="6"	isPaid="false"/>
+<Item name="Palm Backgr."		price="100" id="57" 	isbought="false" 	isused="false"	category="6"	isPaid="true"/>
+<Item name="Umbrella-Hat" 		price="50" 	id="54"		isbought="false" 	isused="false"	category="1"	isPaid="true"/>
+<Item name="Iced Lemonade" 		price="300" id="56"		isbought="false" 	isused="false"	category="4"	isPaid="true"/>
+<Item name="Boxhead" 			price="50" 	id="47" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Crazy Eyes" 		price="50" 	id="48" 	isbought="false" 	isused="false"	category="2"	isPaid="false"/>
+<Item name="Bleh Mouth" 		price="50" 	id="50" 	isbought="false" 	isused="false"	category="3"	isPaid="false"/>
+<Item name="Sombrero Hat" 		price="50" 	id="49" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Styler Cap" 		price="200" id="44" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Sailor Hat" 		price="50" 	id="46" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Reggae Hat" 		price="100" id="45" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Fez" 				price="50" 	id="51" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="RunnerShoes" 		price="400" id="30" 	isbought="false" 	isused="false"	category="5"	isPaid="false"/>
+<Item name="JumperShoes" 		price="400" id="31" 	isbought="false" 	isused="false"	category="5"	isPaid="false"/>
+<Item name="SwiftShoes" 		price="400" id="32" 	isbought="false" 	isused="false"	category="5"	isPaid="false"/>
+<Item name="Flip-Flops" 		price="50" 	id="55"		isbought="false" 	isused="false"	category="5"	isPaid="true"/>
+<Item name="Blue Punk" 			price="100" id="42" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Red Punk" 			price="100" id="43" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Green Punk" 		price="100" id="40" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Pink Punk" 			price="100" id="41" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Headache" 			price="100" id="17" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Copter Hat" 		price="100" id="20" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Cute" 				price="100" id="22" 	isbought="false" 	isused="false"	category="2"	isPaid="false"/>
+<Item name="Rage" 				price="100" id="24" 	isbought="false" 	isused="false"	category="3"	isPaid="false"/>
+<Item name="RogerThat!" 		price="80"  id="10" 	isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Grin" 				price="50"  id="13" 	isbought="false" 	isused="false"	category="3"	isPaid="false"/>
+<Item name="Angry" 				price="50"  id="16" 	isbought="false" 	isused="false"	category="2"	isPaid="false"/>
+<Item name="Hahaha" 			price="100" id="27" 	isbought="false" 	isused="false"	category="3"	isPaid="false"/>
+<Item name="Powerboost" 		price="200" id="37" 	isbought="false" 	isused="false"	category="8"	isPaid="false"/>
+<Item name="Invincible" 		price="300" id="38" 	isbought="false" 	isused="false"	category="8"	isPaid="false"/>
+<Item name="Shockwave" 			price="300" id="39" 	isbought="false" 	isused="false"	category="8"	isPaid="false"/>
+<Item name="Cool" 				price="50"  id="2" 		isbought="false" 	isused="false"	category="2"	isPaid="false"/>
+<Item name="Freaky" 			price="50"  id="3" 		isbought="false" 	isused="false"	category="2"	isPaid="false"/>
+<Item name="Cap" 				price="50"  id="5" 		isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Nerd" 				price="50"  id="4" 		isbought="false" 	isused="false"	category="2"	isPaid="false"/>
+<Item name="OMG" 				price="60"  id="12" 	isbought="false" 	isused="false"	category="2"	isPaid="false"/>
+<Item name="Red Bandanna" 		price="50"  id="11" 	isbought="false" 	isused="false"	category="3"	isPaid="false"/>
+<Item name="Lawl" 				price="50"  id="14" 	isbought="false" 	isused="false"	category="3"	isPaid="false"/>
+<Item name="Mustache" 			price="50"  id="15" 	isbought="false" 	isused="false"	category="3"	isPaid="false"/>
+<Item name="Helmet" 			price="50"  id="6" 		isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Scarf" 				price="50"  id="7" 		isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Groovy Hair" 		price="50"  id="9" 		isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Ouch!" 				price="50"  id="8" 		isbought="false" 	isused="false"	category="1"	isPaid="false"/>
+<Item name="Hardcore Skin!" 	price="60"  id="33" 	isbought="false" 	isused="false"	category="7"	isPaid="false"/>
+<Item name="Pussy Skin" 		price="40"  id="34" 	isbought="false" 	isused="false"	category="7"	isPaid="false"/>
+<Item name="LOL Skin!" 			price="100" id="35" 	isbought="false" 	isused="false"	category="7"	isPaid="false"/>
+<Item name="Gold Skin" 			price="500" id="36" 	isbought="false" 	isused="false"	category="7"	isPaid="false"/>
+<Item name="Seaside Skin" 		price="100" id="58"		isbought="false" 	isused="false"	category="7"	isPaid="true"/>
+<Item name="None" 				price="0" 	id="1" 		isbought="true" 	isused="true"	category="1"	isPaid="false"/>
+<Item name="None" 				price="0" 	id="1" 		isbought="true" 	isused="true"	category="2"	isPaid="false"/>
+<Item name="None" 				price="0" 	id="1" 		isbought="true" 	isused="true"	category="3"	isPaid="false"/>
+<Item name="None" 				price="0" 	id="1" 		isbought="true" 	isused="true"	category="4"	isPaid="false"/>
+<Item name="None" 				price="0" 	id="1" 		isbought="true" 	isused="true"	category="5"	isPaid="false"/>
+<Item name="None" 				price="0" 	id="1" 		isbought="true" 	isused="true"	category="6"	isPaid="false"/>
+<Item name="None" 				price="0" 	id="1" 		isbought="true" 	isused="true"	category="8"	isPaid="false"/>

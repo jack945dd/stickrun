@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<params>
+	<var partsCount="16"/>
+	<var framesCount="14"/>
+	<var scaleX="1"/>
+	<var scaleY="1"/>
+	<var pointX="100"/>
+	<var pointY="100"/>
+	<var anchorX="0.5"/>
+	<var anchorY="0.5"/>
+</params>

@@ -1,0 +1,11 @@
+<?xml version="1.1" encoding='UTF-8' ?>
+<prizes>
+	<prize type="coin" amount="10" 	pieces="5" 	from="1"	to="30"/>
+	<prize type="coin" amount="20" 	pieces="6" 	from="31"	to="50"/>
+	<prize type="coin" amount="50"	pieces="7" 	from="51"	to="60"/>
+	<prize type="coin" amount="100"	pieces="8" 	from="61"	to="65"/>
+	<prize type="coin" amount="200" pieces="10"	from="66"	to="70"/>
+	<prize type="chip" amount="1" 	pieces="10" from="71"	to="85"/>
+	<prize type="chip" amount="3" 	pieces="12" from="86"	to="95"/>
+	<prize type="chip" amount="5" 	pieces="15" from="96"	to="100"/>
+</prizes>

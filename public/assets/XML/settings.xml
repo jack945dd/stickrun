@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Settings
+	s_boundHeightToChangeView="1200"
+	s_metersDistanceCoeff="3"
+	s_startObstacleWidthOffset="20"
+	s_distanceBetweenObstacles="12"
+	s_decreaseDistanceBetweenObstacles="0.02"
+	s_jumpIterBound="4"
+	s_jumpIterBoundDt="100"
+	s_jumpPower="12"
+	s_jumpClimbingPower="3"
+	s_shiftWidthOffset="0.07"
+	s_jumpRollTime="0.35"
+	s_widthPlayerVelocity="9"
+	s_rocketPower="30"
+	s_rocketEnableTime="1.5"
+    s_secondChanceDelta="0.05"
+/>

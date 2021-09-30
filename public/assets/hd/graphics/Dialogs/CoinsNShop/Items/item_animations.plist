@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animations</key>
+	<dict>
+		<key>17</key>
+		<dict>
+			<key>delay</key>
+			<real>0.15</real>
+			<key>frames</key>
+			<array>
+				<string>17.png</string>
+				<string>18.png</string>
+				<string>19.png</string>
+			</array>
+		</dict>
+		<key>20</key>
+		<dict>
+			<key>delay</key>
+			<real>0.15</real>
+			<key>frames</key>
+			<array>
+				<string>20.png</string>
+				<string>21.png</string>
+			</array>
+		</dict>
+		<key>22</key>
+		<dict>
+			<key>delay</key>
+			<real>0.15</real>
+			<key>frames</key>
+			<array>
+				<string>22.png</string>
+				<string>23.png</string>
+			</array>
+		</dict>
+		<key>24</key>
+		<dict>
+			<key>delay</key>
+			<real>0.15</real>
+			<key>frames</key>
+			<array>
+				<string>24.png</string>
+				<string>25.png</string>
+				<string>26.png</string>
+			</array>
+		</dict>
+		<key>27</key>
+		<dict>
+			<key>delay</key>
+			<real>0.15</real>
+			<key>frames</key>
+			<array>
+				<string>27.png</string>
+				<string>28.png</string>
+				<string>29.png</string>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>

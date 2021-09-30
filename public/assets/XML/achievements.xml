@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--<Achievement strId="PlaneJump"		name="PlaneJump" 		  	description="Play 30 rounds in&#10;PlaneJump"				id="1" 	xp="500" 	gold="200"	gcID="PlaneJump"		gpID=""	progress="0"/>-->
+<!--<Achievement strId="PrestigeComplete"	name="Prestige Complete" 	description="Acquire the last&#10;prestige!"				id="2" 	xp="800" 	gold="100"	gcID="PrestigeComplete"	gpID=""	progress="0"/>
+<Achievement strId="PrestigeStart"	name="Prestige Start"		description="Acquire the first&#10;prestige!"				id="3" 	xp="300" 	gold="40"	gcID="PrestigeStart" 	gpID=""	progress="0"/>
+<Achievement strId="RareOwner"			name="Rare Owner" 			description="Own 3 rares!"									id="4" 	xp="500"	gold="200" 	gcID="RareOwner" 		gpID=""	progress="0"/>
+<Achievement strId="HeyStickrunTeam"	name="Hey Stickrun-Team"	description="Make the Stickrun-Team&#10;in multiplayer!"	id="5" 	xp="100" 	gold="25"	gcID="HeyStickrunTeam" 	gpID=""	progress="0"/>
+<Achievement strId="Dealer"			name="Dealer" 				description="Make 10 deals within&#10;24h!"					id="6" 	xp="300" 	gold="50"	gcID="Dealer" 			gpID=""	progress="0"/>
+<Achievement strId="NinjaPro"			name="Ninja Pro" 			description="Destroy 500 obstacles&#10;with the ninjakick"	id="7" 	xp="800" 	gold="60"	gcID="NinjaPro" 		gpID=""	progress="0"/>
+<Achievement strId="Luck"				name="Luck" 				description="Win something in&#10;SuperSlots" 				id="8" 	xp="300" 	gold="0"	gcID="Luck" 			gpID=""	progress="0"/>
+<Achievement strId="HalfLuck"			name="Half Luck" 			description="Get 2 identical slot-items" 					id="9" 	xp="20" 	gold="10"	gcID="HalfLuck" 		gpID=""	progress="0"/>-->
+<Achievement strId="Destroyer"			name="Destroyer" 			description="Destroy 10 obstacles&#10;with one shockwave." 	id="10" xp="100" 	gold="25"	gcID="Destroyer" 		gpID="CgkI_4qC5PkDEAIQEQ"	progress="0"/>
+<Achievement strId="PainlessSlice"		name="Painless Slice" 		description="Get sliced by a saw after&#10;failing." 		id="11" xp="100" 	gold="15"	gcID="PainlessSlice" 	gpID="CgkI_4qC5PkDEAIQDw"	progress="0"/>
+<Achievement strId="NoGrounder"		name="No Grounder" 			description="Do not hit the ground for&#10;8 seconds" 		id="12" xp="100" 	gold="20"	gcID="NoGrounder" 		gpID="CgkI_4qC5PkDEAIQDQ"	progress="0"/>
+<!--<Achievement strId="TheEasyWay"		name="The Easy Way" 		description="Jump over obstacles&#10;with the easy way" 	id="13" xp="60" 	gold="10"	gcID="TheEasyWay" 		gpID=""	progress="0"/>-->
+<Achievement strId="Addicted"			name="Addicted"				description="Play over 1000 rounds" 						id="14" xp="500" 	gold="50"	gcID="Addicted" 		gpID="CgkI_4qC5PkDEAIQCw"	progress="0"/>
+<Achievement strId="Pro"				name="Pro" 					description="level >20, highscore&#10; >3500 >100 rounds"	id="15" xp="200" 	gold="30"	gcID="Pro" 				gpID="CgkI_4qC5PkDEAIQCg"	progress="0"/>
+<Achievement strId="Jumper"			name="Jumper" 				description="Jump 5.000 times"				 				id="16" xp="300" 	gold="35"	gcID="Jumper" 			gpID="CgkI_4qC5PkDEAIQCQ"	progress="0"/>
+<Achievement strId="BigMarathon"		name="Big Marathon" 		description="Run a total of 500.000&#10;meters" 			id="17" xp="600" 	gold="80"	gcID="BigMarathon" 		gpID="CgkI_4qC5PkDEAIQCA"	progress="0"/>
+<Achievement strId="Marathon"			name="Marathon" 			description="Run a total of 100.000&#10;meters" 			id="18" xp="250" 	gold="35"	gcID="Marathon" 		gpID="CgkI_4qC5PkDEAIQBw"	progress="0"/>
+<Achievement strId="FullOutfit"		name="Full Outfit" 			description="Wear glasses,a hat and&#10;a mouth" 			id="19" xp="50" 	gold="5"	gcID="FullOutfit"		gpID="CgkI_4qC5PkDEAIQBg"	progress="0"/>
+<Achievement strId="L33T"				name="L33T!!!" 				description="Fall with a score of&#10;1337!" 				id="20" xp="400" 	gold="100" 	gcID="L33T"				gpID="CgkI_4qC5PkDEAIQBQ"	progress="0"/>
+<!--<Achievement strId="DeveloperPwned"	name="Developer pwned!"	description="Beat the game-&#10;developer" 					id="21" xp="100" 	gold="20" 	gcID="DeveloperPwned"	gpID=""	progress="0"/>-->
+<Achievement strId="ShopLooter"		name="Shop Looter" 			description="Own all shop items" 							id="23" xp="150" 	gold="30"	gcID="ShopLooter" 		gpID="CgkI_4qC5PkDEAIQBA"	progress="0"/>
+<!--<Achievement id="PWNED"			name="PWNED!" 				description="Win all points in a&#10;battlegame!" 			id="24" xp="300" 	gold="80"	gcID="PWNED" 			gpID=""	progress="0"/>-->
+<Achievement strId="Sold"				name="Sold" 				description="Sell your XP" 									id="25" xp="50" 	gold="10" 	gcID="Sold" 			gpID="CgkI_4qC5PkDEAIQAw"	progress="0"/>
+<Achievement strId="Level30"			name="Level 30" 			description="Reach level 30" 								id="26" xp="80" 	gold="20" 	gcID="Level30" 			gpID="CgkI_4qC5PkDEAIQAg"	progress="0"/>
+<Achievement strId="MegaRich"			name="Mega Rich" 			description="Own more than 500&#10;coins" 					id="27" xp="300" 	gold="60" 	gcID="MegaRich" 		gpID="CgkI_4qC5PkDEAIQAQ"	progress="0"/>
+<Achievement strId="Rich"				name="Rich" 				description="Own more than 250&#10;coins" 					id="28" xp="100" 	gold="20" 	gcID="Rich" 			gpID="CgkI_4qC5PkDEAIQFg"	progress="0"/>
+<Achievement strId="Loser"				name="Loser" 				description="Lose a multiplayer game" 						id="29" xp="5" 		gold="1" 	gcID="Loser" 			gpID="CgkI_4qC5PkDEAIQFQ"	progress="0"/>
+<Achievement strId="Winner"			name="Winner" 				description="Win a multiplayer game" 						id="30" xp="50" 	gold="10" 	gcID="Winner" 			gpID="CgkI_4qC5PkDEAIQFA"	progress="0"/>
+<Achievement strId="Noob"				name="Noob" 				description="Fall with a score under&#10;200" 				id="31" xp="5" 		gold="1" 	gcID="Noob"				gpID="CgkI_4qC5PkDEAIQEw"	progress="0"/>
+<!-- DO NOT BIT THIS 4 ACHIEVEMETNTS, THEY SHOULD BE AT 1 BLOCK -->
+<Achievement strId="InsaneRun"			name="Insane Run" 			description="Run 4000 meters" 								id="32" xp="600" 	gold="100" 	gcID="InsaneRun" 		gpID="CgkI_4qC5PkDEAIQEg"	progress="0"/>
+<Achievement strId="BigRun"			name="Big Run" 				description="Run 3000 meters" 								id="33" xp="100" 	gold="25" 	gcID="BigRun" 			gpID="CgkI_4qC5PkDEAIQEA"	progress="0"/>
+<Achievement strId="NormalRun"			name="Normal Run" 			description="Run 2000 meters" 								id="34" xp="40" 	gold="5" 	gcID="NormalRun" 		gpID="CgkI_4qC5PkDEAIQDg"	progress="0"/>
+<Achievement strId="LittleRun"			name="Little Run" 			description="Run 1000 meters" 								id="35" xp="20" 	gold="2" 	gcID="LittleRun" 		gpID="CgkI_4qC5PkDEAIQDA"	progress="0"/>

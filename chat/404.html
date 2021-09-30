@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Not Found</title>
+    <meta charset="utf-8">
+    <style>
+        h1{
+            text-align:center;
+            height: 20%;
+        }
+        img{
+            display:block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 30%;
+            height: 50%;
+        }
+    </style>
+  </head>
+  <body>
+    <h1>看著我真誠的眼神</h1>
+    <img src="404.jpg">
+    <h1 id="file" style="position: absolute; top: 70%; left: 40%; color: white;"></h1>
+    <h1 style="position: absolute; top: 80%; left: 40%; color: white;">你覺得有這種東西嗎?</h1>
+    <script>
+        document.getElementById("file").innerHTML = document.URL;
+    </script>
+  </body>
+</html>

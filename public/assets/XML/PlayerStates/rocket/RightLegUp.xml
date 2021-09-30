@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<params>
+	<body>
+		<var anchorPointX="0.5" />
+		<var anchorPointY="1" />
+		<var positionX0="-11" />
+		<var positionY0="-22" />
+		<var rotationAngle0="-121" />
+		<var scaleX0="0.85" />
+		<var scaleY0="0.9" />
+	</body>
+</params>

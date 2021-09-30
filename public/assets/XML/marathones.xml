@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marafons>
+	<marafon id="101" name="Halloween" open="true" visible="true" bonus="true" win="5" level="0" fee="100" plateBack="halloween_back.png" bgFile="halloween_bg.png" bg="1006">
+		<prizes>
+			<prize type="item" amount="1" id="1006" category="6" name="Halloween backgr."/>
+			<prize type="item" amount="1" id="1012" category="1" name="Halloween hat" scalex="1" scaley="1" />
+			<prize type="money" amount="500" />
+		</prizes>
+	</marafon>
+	<marafon id="1" name="Boston" open="true" visible="true" bonus="false" win="5" level="0" fee="10" plateBack="boston_back.png" bgFile="boston_bg.png" bg="1001">
+		<prizes>
+			<prize type="item" amount="1" id="1001" category="6" name="Boston backgr." />
+			<prize type="item" amount="1" id="1007" category="1" name="Boston hat" scalex="1" scaley="1" />
+			<prize type="money" amount="50" />
+		</prizes>
+	</marafon>
+	<marafon id="2" name="London" open="true" visible="true" bonus="false" win="5" level="0" fee="25" plateBack="london_back.png" bgFile="london_bg.png" bg="1002" unlocksBy="1" >
+		<prizes>
+			<prize type="item" amount="1" id="1002" category="6" name="London backgr." />
+			<prize type="item" amount="1" id="1008"  category="1" name="London hat" scalex="1" scaley="1" />
+			<prize type="money" amount="100" />
+		</prizes>
+	</marafon>
+	<marafon id="3" name="Berlin" open="true" visible="true" bonus="false" win="4" level="0" fee="300" plateBack="berlin_back.png" bgFile="berlin_bg.png"  bg="1003" unlocksBy="2" >
+		<prizes>
+			<prize type="item" amount="1" id="1003" category="6" name="Berlin backgr." />
+			<prize type="item" amount="1" id="1009" category="1" name="Berlin hat" scalex="1" scaley="1" />
+			<prize type="money" amount="1500" />
+		</prizes>
+	</marafon>
+	<marafon id="4" name="Tokyo" open="true" visible="true" bonus="false" win="3" level="0" fee="500" plateBack="tokio_back.png" bgFile="tokio_bg.png" bg="1004" unlocksBy="3" >
+		<prizes>
+			<prize type="item" amount="1" id="1004" category="6" name="Tokyo backgr." />
+			<prize type="item" amount="1" id="1010" category="5" name="Tokyo boots" scalex="1" scaley="1" />
+			<prize type="money" amount="3000" />
+		</prizes>
+	</marafon>
+	<marafon id="5" name="New York" open="true" visible="true" bonus="false" win="3" level="0" fee="2500" plateBack="nyc_back.png" bgFile="nyc_bg.png" bg="1005" unlocksBy="4" >
+		<prizes>
+			<prize type="item" amount="1" id="1005" category="6" name="NYC backgr." />
+			<prize type="item" amount="1" id="1011" category="1" name="NYC hat" scalex="1" scaley="1" />
+			<prize type="money" amount="10000" />
+		</prizes>
+	</marafon>
+</marafons>

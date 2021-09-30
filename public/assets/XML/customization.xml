@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Param name="Boxhead" 			id="47" 	x="23" y="26" rotation="0" scalex="0.2" scaley="0.2"/>
+<Param name="Crazy Eyes" 		id="48" 	x="33" y="30" rotation="0" scalex="0.13" scaley="0.13"/>
+<Param name="Bleh Mouth" 		id="50" 	x="26" y="5" rotation="0" scalex="0.15" scaley="0.15"/>
+<Param name="Sombrero Hat"		id="49" 	x="25" y="65" rotation="0" scalex="0.35" scaley="0.35"/>
+<Param name="Styler Cap" 		id="44" 	x="30" y="48" rotation="0" scalex="0.22" scaley="0.22"/>
+<Param name="Sailor Hat" 		id="46" 	x="20" y="50" rotation="-7" scalex="0.2" scaley="0.2"/>
+<Param name="Reggae Hat" 		id="45" 	x="15" y="35" rotation="5" scalex="0.18" scaley="0.18"/>
+<Param name="Fez" 				id="51" 	x="12" y="39" rotation="0" scalex="0.2" scaley="0.2"/>
+<Param name="RunnerShoes"		id="30" 	x="25" xR="25" y="-3" yR="5" rotation="0" scalex="0.2" scaley="0.2"/>
+<Param name="JumperShoes"		id="31" 	x="25" xR="25" y="-3" yR="5" rotation="0" scalex="0.2" scaley="0.2"/>
+<Param name="SwiftShoes" 	    id="32" 	x="25" xR="25" y="-3" yR="5" rotation="0" scalex="0.2" scaley="0.2"/>
+<Param name="Blue Punk" 		id="42" 	x="12" y="48" rotation="0" scalex="0.25" scaley="0.25"/>
+<Param name="Red Punk" 			id="43" 	x="12" y="48" rotation="0" scalex="0.25" scaley="0.25"/>
+<Param name="Green Punk" 		id="40" 	x="12" y="48" rotation="0" scalex="0.25" scaley="0.25"/>
+<Param name="Pink Punk"			id="41" 	x="12" y="48" rotation="0" scalex="0.25" scaley="0.25"/>
+<Param name="Headache" 			id="17" 	x="20" y="60" rotation="0" scalex="0.25" scaley="0.25"/>
+<Param name="Chopper Hat"		id="20" 	x="23" y="47" rotation="0" scalex="0.16" scaley="0.16"/>
+<Param name="Cute" 				id="22" 	x="36" y="25" rotation="0" scalex="0.14" scaley="0.14"/>
+<Param name="Rage" 				id="24" 	x="28" y="10" rotation="0" scalex="0.12" scaley="0.12"/>
+<Param name="RogerThat!" 		id="10" 	x="22" y="25" rotation="0" scalex="0.2" scaley="0.2"/>
+<Param name="Grin" 				id="13" 	x="25" y="10" rotation="0" scalex="0.12" scaley="0.12"/>
+<Param name="Angry" 			id="16" 	x="27" y="30" rotation="0" scalex="0.18" scaley="0.18"/>
+<Param name="Hahaha" 			id="27" 	x="25" y="4" rotation="0" scalex="0.11" scaley="0.11"/>
+<Param name="Cool" 				id="2" 		x="25" y="28" rotation="0" scalex="0.14" scaley="0.14"/>
+<Param name="Freaky" 			id="3" 		x="27" y="28" rotation="0" scalex="0.14" scaley="0.14"/>
+<Param name="Cap" 				id="5" 		x="30" y="42" rotation="0" scalex="0.2" scaley="0.2"/>
+<Param name="Nerd" 				id="4" 		x="25" y="25" rotation="0" scalex="0.17" scaley="0.17"/>
+<Param name="OMG" 				id="12" 	x="35" y="25" rotation="0" scalex="0.13" scaley="0.13"/>
+<Param name="Red Bandanna" 	    id="11" 	x="22" y="0" rotation="0" scalex="0.15" scaley="0.15"/>
+<Param name="Lawl" 				id="14" 	x="32" y="13" rotation="0" scalex="0.13" scaley="0.13"/>
+<Param name="Mustache" 			id="15" 	x="33" y="14" rotation="-5" scalex="0.13" scaley="0.13"/>
+<Param name="Helmet" 			id="6" 		x="25" y="23" rotation="-20" scalex="0.18" scaley="0.18"/>
+<Param name="Scarf" 			id="7" 		x="24" y="36" rotation="0" scalex="0.15" scaley="0.15"/>
+<Param name="Groovy Hair"		id="9" 		x="18" y="40" rotation="0" scalex="0.18" scaley="0.18"/>
+<Param name="Ouch!" 			id="8" 		x="24" y="37" rotation="0" scalex="0.16" scaley="0.16"/>
+<Param name="Umbrella-Hat" 		id="54"		x="25" y="65" rotation="0" scalex="0.4" scaley="0.4"/>
+<Param name="Flip-Flops" 		id="55"		x="20" xR="12" y="0" yR="2" rotation="0" scalex="0.25" scaley="0.25"/>
+<Param name="Iced Lemonade"		id="56"		x="0"	y="0"	rotation="90" scalex="0.2" scaley="0.2"/>
+<Param id="1007"	name="Boston hat"		x="40"	y="45"	rotation="0" scalex="0.35" scaley="0.35" />
+<Param id="1008"	name="London hat"		x="23"	y="55"	rotation="0" scalex="0.28" scaley="0.28" />
+<Param id="1009"	name="Berlin hat"		x="20"	y="25"	rotation="0" scalex="0.28" scaley="0.28" />
+<Param id="1010"	name="Tokyo boots"		x="5"	y="-5"	xR="7"	yR="-3" rotation="0" scalex="0.25" scaley="0.25" />
+<Param id="1011"	name="NYC hat"			x="25"	y="65"	rotation="0" scalex="0.3" scaley="0.3" />
+<Param id="1012"	name="Halloween hat"	x="23"	y="27"	rotation="0" scalex="0.35" scaley="0.35" />

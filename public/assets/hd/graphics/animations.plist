@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animations</key>
+	<dict>
+		<key>small_coin_animation</key>
+		<dict>
+			<key>delay</key>
+			<real>0.03</real>
+			<key>frames</key>
+			<array>
+				<string>coin_gr0001.png</string>
+				<string>coin_gr0002.png</string>
+				<string>coin_gr0003.png</string>
+				<string>coin_gr0004.png</string>
+				<string>coin_gr0005.png</string>
+				<string>coin_gr0006.png</string>
+				<string>coin_gr0007.png</string>
+				<string>coin_gr0008.png</string>
+				<string>coin_gr0009.png</string>
+				<string>coin_gr0010.png</string>
+				<string>coin_gr0011.png</string>
+				<string>coin_gr0012.png</string>
+				<string>coin_gr0013.png</string>
+				<string>coin_gr0014.png</string>
+				<string>coin_gr0015.png</string>
+				<string>coin_gr0016.png</string>
+				<string>coin_gr0017.png</string>
+				<string>coin_gr0018.png</string>
+				<string>coin_gr0019.png</string>
+				<string>coin_gr0020.png</string>
+				<string>coin_gr0021.png</string>
+				<string>coin_gr0022.png</string>
+				<string>coin_gr0023.png</string>
+				<string>coin_gr0024.png</string>
+				<string>coin_gr0025.png</string>
+				<string>coin_gr0026.png</string>
+				<string>coin_gr0027.png</string>
+				<string>coin_gr0028.png</string>
+				<string>coin_gr0029.png</string>
+				<string>coin_gr0030.png</string>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>

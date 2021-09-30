@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObject width="3">
+	<object type="pizza"	x="-1.0"	y="3.0" />
+    <object type="box"      x="1.0"     y="1.0" />
+    <object type="box"      x="1.0"		y="2.0" />
+    <object type="box"      x="1.0"		y="3.0" />
+    <object type="saw"		x="1.0"     y="7.0" />
+    <object type="saw"		x="1.0"     y="8.0" />
+    <object type="saw"		x="1.0"     y="9.0" />
+	<object type="pizza"	x="1.0"		y="5.0" />
+    <object type="saw"		x="2.0"		y="1.5" />
+    <object type="saw"		x="3.0"		y="1.5" />
+	<object type="pizza"	x="6.0"		y="2.0" />
+</GameObject>
+<GameObject width="9">
+    <object type="box"      x="1.0"     y="3.0" />
+    <object type="box"      x="2.0"     y="3.0" />
+    <object type="box"      x="3.0"     y="3.0" />
+    <object type="box"      x="4.0"     y="3.0" />
+	<object type="pizza"	x="5.5"		y="4.0" />
+    <object type="box"      x="5.5"     y="5.0" />
+	<object type="pizza"	x="6.0"		y="1.0" />
+	<object type="pizza"	x="6.5"		y="7" />
+    <object type="box"      x="6.5"     y="5.0" />
+    <object type="box"      x="7.5"     y="5.0" />
+    <object type="box"      x="8.5"     y="5.0" />
+    <object type="glass"	x="8.5"     y="6.0" />
+    <object type="glass"	x="8.5"     y="7.0" />
+    <object type="glass"	x="8.5"     y="8.0" />
+	<object type="pizza"	x="10.5"	y="5" />
+</GameObject>
+<GameObject width="3">
+    <object type="box"      x="1.0"     y="1.0" />
+	<object type="saw"		x="2.0"     y="1.0" />
+	<object type="pizza"	x="2.0"		y="4.0" />
+	<object type="pizza"	x="2.0"		y="3.0" />
+	<object type="pizza"	x="2.0"		y="2.0" />
+    <object type="box"      x="3.0"     y="1.0" />
+</GameObject>
+<GameObject width="1">
+	<object type="pizza"	x="-2.0"	y="1.0" />
+    <object type="box"      x="1.0"     y="1.0" />
+    <object type="box"      x="1.0"     y="2.0" />
+    <object type="box"      x="1.0"     y="3.0" />
+    <object type="box"      x="1.0"     y="6.5" />
+    <object type="glass"	x="1.0"     y="4.0" />
+    <object type="glass"	x="1.0"     y="5.0" />
+	<object type="pizza"	x="1.0"		y="7.5" />
+	<object type="pizza"	x="3"		y="4.5" />
+</GameObject>
+<GameObject width="1">
+    <object type="box"      x="1.0"     y="1.0" />
+    <object type="box"      x="1.0"     y="2.0" />
+	<object type="pizza"	x="1.0"		y="4.0" />
+	<object type="pizza"	x="3.5"		y="3.0" />
+</GameObject>
+<GameObject width="5">
+    <object type="box"      x="1.0"     y="2.0" />
+    <object type="box"      x="1.0"     y="3.0" />
+    <object type="box"      x="1.0"     y="4.0" />
+    <object type="glass"	x="1.0"     y="1.0" />
+    <object type="box"      x="2.0"     y="2.0" />
+	<object type="pizza"	x="2.0"		y="1.0" />
+	<object type="pizza"	x="3.0"		y="1.0" />
+	<object type="pizza"	x="3.0"		y="6.0" />
+    <object type="box"      x="3.0"     y="2.0" />
+	<object type="pizza"	x="4.0"		y="1.0" />
+    <object type="box"      x="4.0"     y="2.0" />
+    <object type="box"      x="5.0"     y="2.0" />
+    <object type="box"      x="5.0"     y="3.0" />
+    <object type="box"      x="5.0"     y="4.0" />
+    <object type="glass"	x="5.0"     y="1.0" />
+</GameObject>
+<GameObject width="7">
+    <object type="box"      x="1.0"     y="1.0" />
+	<object type="pizza"	x="1.0"		y="2.5" />
+	<object type="pizza"	x="3.0"		y="1.0" />
+	<object type="pizza"	x="4.0"		y="1.0" />
+	<object type="pizza"	x="5.0"		y="1.0" />
+    <object type="box"      x="7.0"     y="2.0" />
+    <object type="box"      x="7.0"     y="3.0" />
+    <object type="box"      x="7.0"     y="4.0" />
+    <object type="box"      x="7.0"     y="5.0" />
+</GameObject>
+<GameObject width="3">
+    <object type="saw"      x="1.0"     y="2.0" />
+    <object type="saw"      x="2.0"     y="2.0" />
+	<object type="pizza"	x="2.0"		y="1.0" />
+	<object type="pizza"	x="2.0"		y="5.0" />
+    <object type="saw"      x="3.0"     y="2.0" />
+	<object type="pizza"	x="4.0"		y="2.0" />
+</GameObject>
+<GameObject width="1">
+    <object type="box"      x="1.0"     y="1.0" />
+    <object type="box"      x="1.0"     y="2.0" />
+    <object type="box"      x="1.0"     y="3.0" />
+    <object type="saw"      x="1.0"     y="4.0" />
+	<object type="pizza"	x="1.0"		y="6.0" />
+</GameObject>
+<GameObject width="7">
+    <object type="box"      x="1.0"     y="2.0" />
+    <object type="glass"	x="1.0"     y="1.0" />
+    <object type="box"      x="2.0"     y="3.0" />
+	<object type="pizza"	x="2.0"		y="1.0" />
+    <object type="box"      x="3.0"     y="4.0" />
+    <object type="box"      x="4.0"     y="4.0" />
+	<object type="pizza"	x="4.0"		y="2.0" />
+	<object type="pizza"	x="4.0"		y="5.0" />
+    <object type="box"      x="5.0"     y="4.0" />
+    <object type="box"      x="6.0"     y="3.0" />
+	<object type="pizza"	x="6.0"		y="1.0" />
+	<object type="pizza"	x="7.0"		y="7.0" />
+    <object type="box"      x="7.0"     y="2.0" />
+    <object type="glass"	x="7.0"     y="1.0" />
+</GameObject>
+<GameObject width="1">
+    <object type="box"      x="1.0"     y="1.0" />
+    <object type="box"      x="1.0"     y="2.0" />
+    <object type="box"      x="1.0"     y="3.0" />
+	<object type="pizza"	x="1.0"		y="4.5" />
+</GameObject>
+<GameObject width="9">
+    <object type="box"      x="1.0"     y="2.0" />
+    <object type="box"      x="1.0"     y="3.0" />
+    <object type="box"      x="1.0"     y="4.0" />
+    <object type="box"      x="1.0"     y="5.0" />
+	<object type="pizza"	x="1.0"		y="1.0" />
+    <object type="box"      x="2.0"     y="2.0" />
+	<object type="pizza"	x="2.0"		y="1.0" />
+	<object type="pizza"	x="3.0"		y="1.0" />
+    <object type="box"      x="3.0"     y="2.0" />
+    <object type="box"      x="4.0"     y="2.0" />
+	<object type="pizza"	x="4.0"		y="1.0" />
+	<object type="pizza"	x="5.0"		y="1.0" />
+	<object type="pizza"	x="5.0"		y="3.5" />
+    <object type="box"      x="5.0"     y="2.0" />
+	<object type="saw"      x="9.0"     y="1.0" />
+	<object type="saw"      x="9.0"     y="2.0" />
+	<object type="pizza"	x="9.0"		y="3.5" />
+</GameObject>
+<GameObject width="5">
+    <object type="box"      x="1.0"     y="1.0" />
+    <object type="box"      x="2.0"     y="1.0" />
+	<object type="pizza"	x="2.0"		y="2.0" />
+	<object type="pizza"	x="3.0"		y="2.0" />
+    <object type="box"      x="3.0"     y="1.0" />
+	<object type="pizza"	x="4.0"		y="2.0" />
+    <object type="box"      x="4.0"     y="1.0" />
+    <object type="box"      x="5.0"     y="1.0" />
+	<object type="pizza"	x="6.0"		y="6.0" />
+</GameObject>
+<GameObject width="2">
+    <object type="box"      x="1.0"     y="1.0" />
+    <object type="box"      x="1.0"     y="2.0" />
+    <object type="box"      x="1.0"     y="3.0" />
+	<object type="pizza"	x="1.0"		y="4.0" />
+    <object type="box"      x="2.0"     y="1.0" />
+</GameObject>
+<GameObject width="1">
+	<object type="pizza"	x="0.0"		y="1.0" />
+	<object type="pizza"	x="1.0"		y="4.0" />
+    <object type="box"      x="1.0"     y="2.0" />
+    <object type="box"      x="1.0"     y="3.0" />
+    <object type="glass"	x="1.0"     y="1.0" />
+	<object type="pizza"	x="2.0"		y="1.0" />
+</GameObject>';
